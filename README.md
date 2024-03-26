@@ -6,12 +6,6 @@ We are presently undergoing internal testing. If you encounter any bugs or have 
 
 please contact jon.leirer@sas.com if you have any questions.
 
-# SAS Coverage
-
-## Covered Procs
-
-The support set of covered procedure can be found [here]().
-
 # Frequently Asked Questions
 
 ## Installation
