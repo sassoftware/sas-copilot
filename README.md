@@ -2,9 +2,9 @@
 
 The SAS Viya Copilot Extension for Visual Studio Code is a great tool to enhance your productivity as you program in SAS. SAS Viya Copilot uses Generative Artificial Intelligence (GenAI) to add comments to a block of SAS code, write an explanation of a block of SAS code, and generate SAS code based on a block of comments in a SAS program.
 
-We are presently undergoing internal testing. If you encounter any bugs or have suggestions, please report as [issues](https://github.com/sassoftware/sas-copilot/issues/new/choose)
+We are presently undergoing internal testing. If you encounter any bugs or have suggestions, please report as [issues](https://github.com/sassoftware/sas-copilot/issues/new/choose).
 
-please contact jon.leirer@sas.com if you have any questions.
+Please contact jon.leirer@sas.com if you have any questions.
 
 # Frequently Asked Questions
 
@@ -30,7 +30,7 @@ The SAS Viya Copilot extension includes commands to add comments, explain code, 
 ### Generate Code
 To generate SAS code:
 1.	Open a SAS program file, or create a new file using SAS language mode.
-2.	Position the cursor in a SAS comment statement or select a comment block. SAS comments start with /* and end with */.  
+2.	Position the cursor in a SAS comment statement or select a comment block. SAS comments start with `/*` and end with `*/`.  
 3.	Click Generate code. 
 The available generated code options will be displayed as gray inline code. Users will need to choose and select the desired code from these options.
 <img width="618" alt="image" src="https://github.com/sassoftware/sas-copilot/assets/15733070/394fd970-e4db-48eb-ae77-22a7d673e39f">
