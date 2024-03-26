@@ -10,8 +10,10 @@ please contact jon.leirer@sas.com if you have any questions.
 
 ## Installation
 To install the SAS Viya Copilot extension:
-1.	Open the Extensions view by clicking the Extensions icon in the Activity Bar on the left side of the Visual Studio Code window. 
-2.	Search for the SAS Copilot extension and click Install. 
+1.	Open the Extensions sidebar by clicking the Extensions icon in the Activity Bar on the left side of the Visual Studio Code window.
+2.	Click on the ellipsis in the right upper corner, choose Install from VSIX
+<img width="645" alt="image" src="https://github.com/sassoftware/sas-copilot/assets/15733070/cdc10cca-e456-4646-9b76-ae24e1cc81bd">
+
 
 For the richest experience, including syntax highlighting, code completion, and many other features, use this extension along with the [official SAS Extension](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp)
 
@@ -30,7 +32,8 @@ To generate SAS code:
 1.	Open a SAS program file, or create a new file using SAS language mode.
 2.	Position the cursor in a SAS comment statement or select a comment block. SAS comments start with /* and end with */.  
 3.	Click Generate code. 
-The generated code is inserted in your program after the selected comment. 
+The available generated code options will be displayed as gray inline code. Users will need to choose and select the desired code from these options.
+<img width="618" alt="image" src="https://github.com/sassoftware/sas-copilot/assets/15733070/394fd970-e4db-48eb-ae77-22a7d673e39f">
 
 ### Add Comments
 To add comments to an existing block of SAS code:
@@ -53,7 +56,4 @@ To run SAS Viya Copilot commands with the Command Palette:
 2.	Select View > Command Palette or press Ctrl (or Command for Mac users) + Shift + P to open the Command Palette. 
 3.	Enter SAS Copilot in the search box to display the available commands and click the command that you want to use. 
 
-## Usage questions
-
-###
 
