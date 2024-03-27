@@ -27,5 +27,8 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. PC or Mac]
  - Version [e.g. 0.0.2]
 
+**Reporter's Organization**
+
+
 **Additional context**
 Add any other context about the problem here.
