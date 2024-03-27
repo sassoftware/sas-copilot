@@ -6,7 +6,6 @@ We are presently undergoing internal testing. If you encounter any bugs or have 
 
 Please contact jon.leirer@sas.com if you have any questions.
 
-# Frequently Asked Questions
 
 ## Installation
 To install the SAS Viya Copilot extension:
