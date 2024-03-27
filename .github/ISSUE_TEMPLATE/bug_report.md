@@ -25,7 +25,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. PC or Mac]
- - Version [e.g. 0.0.2]
+ - Version: [e.g. 0.0.2, you can find the version number by clicking the extension icon] 
 
 **Reporter's Organization**
 
