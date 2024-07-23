@@ -1,3 +1,5 @@
+<p style="font-size: 1rem;">Please note that this extension may be downloaded but it will only operate fully for participants in the SAS private preview who have a signed agreement with SAS.</p>
+
 # Overview
 
 The SAS Viya Copilot Extension for Visual Studio Code is a great tool to enhance your productivity as you program in SAS. SAS Viya Copilot uses Generative Artificial Intelligence (GenAI) to add comments to a block of SAS code, write an explanation of a block of SAS code, and generate SAS code based on a block of comments in a SAS program.
