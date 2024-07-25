@@ -8,14 +8,7 @@ We are presently undergoing internal testing. If you encounter any bugs or have 
 
 Please contact jon.leirer@sas.com if you have any questions.
 
-## Installation
-
-To install the SAS Viya Copilot extension:
-
-1. Open the Extensions sidebar by clicking the Extensions icon in the Activity Bar on the left side of the Visual Studio Code window.
-2. Click on the ellipsis in the right upper corner, choose Install from VSIX
-
-<img width="645" alt="image" src="https://github.com/sassoftware/sas-copilot/raw/HEAD/doc/images/ExtensionInstallation-Cropped.png">
+## Tips
 
 For the richest experience, including syntax highlighting, code completion, and many other features, use this extension along with the [official SAS Extension](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp)
 
