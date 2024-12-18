@@ -14,7 +14,7 @@ For the richest experience, including syntax highlighting, code completion, and 
 
 ## Specifying the API Key
 
-An API key is required to use this extension. Please contact jon.leirer@sas.com if you are having trouble finding your API key.
+An API key is required to use this extension. Please contact ViyaCopilotTeam@sas.com if you are having trouble finding your API key.
 
 When you run any of the commands (Add comments, Explain, or Generate code) for the first time, you are prompted to enter your API key.
 
