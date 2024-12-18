@@ -6,7 +6,7 @@ The SAS Viya Copilot Extension for Visual Studio Code is a great tool to enhance
 
 We are presently undergoing internal testing. If you encounter any bugs or have suggestions, please report as [issues](https://github.com/sassoftware/sas-copilot/issues/new/choose).
 
-Please contact jon.leirer@sas.com if you have any questions.
+Please contact ViyaCopilotTeam@sas.com if you have any questions.
 
 ## Tips
 
