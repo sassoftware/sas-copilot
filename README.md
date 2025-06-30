@@ -9,27 +9,30 @@ We are presently running a Private Preview program to use SAS Viya Copilot. If y
 Please contact ViyaCopilotTeam@sas.com if you have any questions.
 
 # Prerequisites
+
 - VSCode version ≥ 1.89
 - [official SAS Extension](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp) version ≥ 1.14.0
 - a SAS Viya 4 deployment (25.05 or later) for Copilot access keys - SAS Viya, SAS Viya Advanced, SAS Viya Enterprise, SAS Viya Programming
 
-## Connecting to your Viya account
-<b> If you have already setup your Viya account in the official SAS Extension, you may skip this step. </b>
+## Connecting to your Viya environment
+
+<b> If you have already set up your Viya environment (for Viya 25.05 or later) in the official SAS Extension, you may skip this step. </b>
+
 1. Go to your official SAS Extension settings (right click the extension, select "Settings")
-2. Add a Connection Profile to your Viya (or edit the settings.json to add a different profile if you have multiple accounts).
+2. Add a Connection Profile for your Viya environment (or edit the settings.json to add a different profile if you have multiple SAS environments).
 
 For more information on this process, please refer to the [official SAS Extension's documentation](https://sassoftware.github.io/vscode-sas-extension/)
 
+## Enabling the GenAI Gateway Feature
 
-## Enabling the GenAI Gateway Feature 
-1. Login to your Viya account (the same account enabled in the previous step)
+1. Login to your Viya environment (the same one enabled in the previous step)
 2. Click the user icon in the top right and select "Manage Features"
 3. Search "GenAI Gateway" and toggle the option on.
 4. Wait ~30 seconds for the changes to propagate
 
 Congratulations! You should be able to use the SAS Viya Copilot extension now.
 
-If you do not see the GenAI Gateway feature, or the toggle is greyed out, please contact your SAS Administrator.
+**Note**: Your Viya environment must be configured with Copilot access and authorization settings. If you do not see the GenAI Gateway feature, or the toggle is greyed out, please contact your SAS Administrator.
 
 # Running the SAS Viya Copilot Extension
 
