@@ -18,7 +18,11 @@ To generate SAS code from a comment:
 
 ![Generate code](/images/CodeGen-SASLight-Cropped.png)
 
-**Note**: To generate code from a longer, multi-line comment, select the entire comment and then select **Generate code**.
+:::note
+
+To generate code from a longer, multi-line comment, select the entire comment and then select **Generate code**.
+
+:::
 
 ![Generate code multiline](/images/CodeGen-MultiLine-SASLight-Cropped.png)
 

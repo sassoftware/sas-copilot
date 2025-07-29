@@ -14,7 +14,11 @@ sidebar_position: 2
 
 You must install both the SAS Extension for Visual Studio Code and the SAS Viya Copilot extension for Visual Studio Code.
 
-**Note**: Make sure that you install the official SAS extensions that are published by SAS Institute Inc.
+:::note
+
+Make sure that you install the official SAS extensions that are published by SAS Institute Inc.
+
+:::
 
 - If you are running Microsoft Visual Studio Code, you can install the extensions from the Extension Marketplace by clicking the Extensions icon in the Activity Bar.
 

@@ -14,6 +14,10 @@ To run SAS Viya Copilot commands with the Command Palette:
 
 2. Select **View > Command Palette**.
 
-**Note**: Microsoft Windows users can also press Ctrl + Shift + P to open the Command Palette. Apple OS X users can press Command + Shift + P to open the Command Palette.
+:::note
+
+Microsoft Windows users can also press Ctrl + Shift + P to open the Command Palette. Apple OS X users can press Command + Shift + P to open the Command Palette.
+
+:::
 
 3. Enter “SAS Copilot” in the search box to display the available commands and click the command that you want to use.
