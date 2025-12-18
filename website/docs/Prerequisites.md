@@ -36,14 +36,6 @@ For more information, see the [documentation for the SAS Extension for Visual 
 
 ## Enabling the GenAI Gateway Feature
 
-1. Log on to the SAS Viya environment that you set up in the previous section.
+A SAS Administrator must set up a credential to manage SAS Viya Copilot. The credential is set up using an API key and a secret obtained from the SAS API Portal to enable SAS Viya to access the SAS GenAI Gateway. 
 
-2. Click the user button in the SAS application bar and select **Manage Features**.
-
-3. Search for "GenAI Gateway" and toggle the option on. You should be able to use the SAS Viya Copilot extension after approximately 30 seconds.
-
-:::note
-
-Your SAS Viya environment must be configured with SAS Viya Copilot access and authorization settings. If you do not see the GenAI Gateway feature, or the toggle is disabled, please contact your SAS Administrator.
-
-:::
+For information about configuring the API key and secret to gain access to SAS Viya Copilot, see [Credentials and Secrets Setup for SAS Viya Copilot](https://documentation.sas.com/?cdcId=sasadmincdc&cdcVersion=default&docsetId=callicense&docsetTarget=p1ii465hpdnkoan1fx3ybdin9q5s.htm).
