@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Alternative Ways to Run Commands
 
 ## Context Menu
