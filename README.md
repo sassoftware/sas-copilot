@@ -1,10 +1,10 @@
-<p style="font-size: 1rem;"> Please note that this extension may be downloaded but it will only operate fully for participants in the SAS private preview who have a signed agreement with SAS and have a Viya 4 license. </p>
+<p style="font-size: 1rem;"> Please note that this extension may be downloaded but it will only operate fully for participants who have a signed agreement with SAS and have a Viya 4 license. </p>
 
 # Overview
 
 The SAS Viya Copilot extension for Visual Studio Code is a tool that enhances your productivity as you program in SAS. SAS Viya Copilot uses Generative Artificial Intelligence (GenAI) to add comments to SAS code, write an explanation for existing SAS code, and generate SAS code based on instructions in comments in a SAS program.
 
-We are presently running a Private Preview program to use SAS Viya Copilot. If you encounter any bugs or have suggestions, please report as [issues](https://github.com/sassoftware/sas-copilot/issues/new/choose).
+If you encounter any bugs or have suggestions, please report as [issues](https://github.com/sassoftware/sas-copilot/issues/new/choose).
 
 Please contact ViyaCopilotTeam@sas.com if you have any questions.
 
@@ -12,27 +12,29 @@ Please contact ViyaCopilotTeam@sas.com if you have any questions.
 
 - VSCode version ≥ 1.89
 - [official SAS Extension](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp) version ≥ 1.14.0
-- a SAS Viya 4 deployment (25.05 or later) for Copilot access keys - SAS Viya, SAS Viya Advanced, SAS Viya Enterprise, SAS Viya Programming
+- a SAS Viya 4 deployment (2025.12 or later) for Copilot access keys - SAS Viya, SAS Viya Advanced, SAS Viya Enterprise, SAS Viya Programming
 
-## Connecting to your Viya environment
+## Connecting to your Viya account
 
-<b> If you have already set up your Viya environment (for Viya 25.05 or later) in the official SAS Extension, you may skip this step. </b>
+<b> If you have already setup your Viya account in the official SAS Extension, you may skip this step. </b>
 
 1. Go to your official SAS Extension settings (right click the extension, select "Settings")
-2. Add a Connection Profile for your Viya environment (or edit the settings.json to add a different profile if you have multiple SAS environments).
+2. Add a Connection Profile to your Viya (or edit the settings.json to add a different profile if you have multiple accounts).
 
 For more information on this process, please refer to the [official SAS Extension's documentation](https://sassoftware.github.io/vscode-sas-extension/)
 
-## Enabling the GenAI Gateway Feature
+## Authorizing your Viya account
+<b> NOTE: This step must be done by a SAS Administrator! </b>
 
-1. Login to your Viya environment (the same one enabled in the previous step)
-2. Click the user icon in the top right and select "Manage Features"
-3. Search "GenAI Gateway" and toggle the option on.
-4. Wait ~30 seconds for the changes to propagate
+In order to authorize your account to use the Viya Copilot extension, a SAS Administrator must add you to the "GenAI VSCode" users group. This can be done using the SAS Environment Manager tool.
 
-Congratulations! You should be able to use the SAS Viya Copilot extension now.
+1. Login to Viya, assume Administrator privileges.
+2. Go to the Applications Menu on the left hand side, select "Manage Environment" under Administration.
+3. On the Environment Manager screen, select "Users and Groups".
+4. Search for "GenAI VSCode Users", then click the pencil (edit) icon under "Members".
+5. Search for and add the desired user(s) or group(s). Click Save.
 
-**Note**: Your Viya environment must be configured with Copilot access and authorization settings. If you do not see the GenAI Gateway feature, or the toggle is greyed out, please contact your SAS Administrator.
+You should now be authorized to use the extension!
 
 # Running the SAS Viya Copilot Extension
 
