@@ -12,7 +12,7 @@ Please contact ViyaCopilotTeam@sas.com if you have any questions.
 
 - VSCode version ≥ 1.89
 - [official SAS Extension](https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp) version ≥ 1.14.0
-- a SAS Viya 4 deployment (2025.12 or later) for Copilot access keys - SAS Viya, SAS Viya Advanced, SAS Viya Enterprise, SAS Viya Programming
+- A SAS Viya 4 deployment (2025.12 or later) for Copilot access keys - SAS Viya, SAS Viya Advanced, SAS Viya Enterprise, SAS Viya Programming
 
 ## Connecting to your Viya account
 
