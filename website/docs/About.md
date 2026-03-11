@@ -28,19 +28,19 @@ sidebar_position: 5
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;Prerequisites
 
-SAS Viya 4
+&nbsp;&nbsp;&nbsp;&nbsp;SAS Viya 4
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;Acceptable Use Policy
 
-[http://www.sas.com/acceptableuse](http://www.sas.com/acceptableuse)
+&nbsp;&nbsp;&nbsp;&nbsp;[http://www.sas.com/acceptableuse](http://www.sas.com/acceptableuse)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;Intended Use
 
-SAS Viya Copilot uses Generative Artificial Intelligence (GenAI) to add comments to SAS code, write an explanation for existing SAS code, and generate SAS code based on instructions in comments in a SAS program.
+&nbsp;&nbsp;&nbsp;&nbsp;SAS Viya Copilot uses Generative Artificial Intelligence (GenAI) to add comments to SAS code, write an explanation for existing SAS code, and generate SAS code based on instructions in comments in a SAS program.
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;Context for Deployment
 
-This model supports features in SAS software in a specific context but cannot be more broadly incorporated into customer AI systems.
+&nbsp;&nbsp;&nbsp;&nbsp;This model supports features in SAS software in a specific context but cannot be more broadly incorporated into customer AI systems.
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;Best Practices
 
