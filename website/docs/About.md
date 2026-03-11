@@ -11,7 +11,7 @@ sidebar_position: 5
 #### &nbsp;&nbsp;&nbsp;&nbsp;Model name for code generation:
 - **Legal name for model provider that SAS leverages:** SAS Institute Inc.
 - **Model name:** CodeSAS v 2025.10.0 (Microsoft's Phi-3 model, further fine tuned by SAS)
-- **Link to model documentation, including a summary of the training content:** [Template for the Public Summary of Training Content](https://github.com/sassoftware/sas-copilot/blob/pr-jinwok-docs/Code%20Gen%20Training%20Summary.pdf)
+- **Link to model documentation, including a summary of the training content:** [Template for the Public Summary of Training Content](https://github.com/sassoftware/sas-copilot/blob/main/Code%20Gen%20Training%20Summary.pdf)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;Model name for code comments and explanations:
 - **Legal name for model provider that SAS leverages:** Microsoft Corporation
