@@ -15,7 +15,7 @@ sidebar_position: 5
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;Model name for code comments and explanations:
 - **Legal name for model provider that SAS leverages:** Microsoft Corporation
-- **Model name:** GPT 4.1
+- **Model name:** GPT 5.1
 - **Link to model documentation:** [Azure AI Foundry Models](https://learn.microsoft.com/en-us/azure/ai-foundry/foundry-models/concepts/models-sold-directly-by-azure?view=foundry-classic&pivots=azure-openai&tabs=global-standard-aoai%2Cstandard-chat-completions%2Cglobal-standard)
 
 ### Input and Output
